@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Fix device counting method to account for double-digit device IDs (#8502)
