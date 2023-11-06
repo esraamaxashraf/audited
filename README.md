@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Elaborate Train and Predict mode docs arguments (#8137)
